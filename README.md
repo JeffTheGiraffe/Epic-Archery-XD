@@ -1,2 +1,1 @@
-# Epic-Archery-XD
-don't miss!
+# project-C22-template
